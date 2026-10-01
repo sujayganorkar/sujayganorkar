@@ -182,7 +182,7 @@ export default function Home() {
           <a href="#work">Work</a>
           <a href="#agents">Agents</a>
           <a
-            href="mailto:hello@sujayganorkar.in"
+            href="mailto:sujayganorkar@gmail.com"
             className="headerContact"
           >
             Contact ↗
@@ -213,7 +213,7 @@ export default function Home() {
           </a>
 
           <a
-            href="mailto:hello@sujayganorkar.in"
+            href="mailto:sujayganorkar@gmail.com"
             className="btnSecondary"
           >
             Get in touch <ArrowUpRight size={14} />
@@ -373,10 +373,10 @@ export default function Home() {
 
         <div className="contactRight">
           <a
-            href="mailto:hello@sujayganorkar.in"
+            href="mailto:sujayganorkar@gmail.com"
             className="contactEmail"
           >
-            hello@sujayganorkar.in ↗
+            sujayganorkar@gmail.com ↗
           </a>
 
           <div className="contactLinks">

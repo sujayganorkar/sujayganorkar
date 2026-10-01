@@ -32,4 +32,4 @@ Everything I ship is built with coding agents. I focus on the system architectur
 
 Working on a messy operational problem? I'm especially interested in software around documents, business operations, human review, and applied AI.
 
-- Email: [hello@sujayganorkar.in](mailto:hello@sujayganorkar.in)
+- Email: [sujayganorkar@gmail.com](mailto:sujayganorkar@gmail.com)
