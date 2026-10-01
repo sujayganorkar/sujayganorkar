@@ -1,30 +1,35 @@
-# Hi, I’m Sujay 👋
+# Sujay Ganorkar 
 
-I build vibecoded web things — prototypes, frontend experiments, and automation scripts. Most of my work is exploratory and shipping fast: TypeScript and JavaScript frontends, a few Python tools, and a handful of one-off experiments that ended up being fun to build.
+I build software for messy business operations. 
 
-- Location: India 
-- Currently: shipping prototypes and building automation
+My work focuses on document-heavy workflows, operational tooling, and human-supervised AI systems. I'm not a traditionally trained software engineer—I use coding agents, product thinking, and relentless iteration to turn ideas into working systems.
 
----
-
-## Tech & vibes
-TypeScript · JavaScript · Python · HTML · Web frontends · Automation · Prototypes
+- **Location:** Nagpur, India
+- **Currently Building:** [Orinex](https://orinex.in) — An operating system for businesses that run on messy documents and emails.
 
 ---
 
-## What I build
-- Rapid prototypes and front-end experiments — I iterate fast and keep what works.
-- Small automation scripts and integrations for the web.
-- Some ML / extraction experiments (see `image-text`).
+## How I Build
+
+Everything I ship is built with coding agents. I focus on the system architecture and the business problem, while agents handle the raw execution.
+
+- **Coding Agents:** Claude Code, Codex, Antigravity, OpenCode
+- **Core Technologies:** TypeScript, Python, Next.js, Spring Boot, Supabase, Docker
+- **Models & Reasoning:** Claude 3.5 Sonnet, Gemini 1.5 Pro, Qwen2.5-VL
 
 ---
 
-## Want to collaborate?
-- Follow or star a repo to see updates.
-- Open an issue or DM on GitHub for collabs or questions.
+## Selected Work
+
+- **[Orinex](https://orinex.in):** Built to solve real bottlenecks in a manufacturing business. It replaces manual data entry and fragmented tools with an AI-native workspace.
+- **[Translation Pipeline](https://github.com/sujayganorkar/translation):** A dual-source OCR/VLM pipeline for translating Chinese technical PDFs into reconstructed English documents.
+- **[Clover](https://ournest.life):** A cross-platform Couple Life OS with timezone-aware scheduling overlap and natural language calendar parsing.
+- **[XtracT](https://github.com/sujayganorkar/XtracT):** A hybrid OCR system running PaddleOCR + Tesseract in parallel, using Levenshtein similarity as a hallucination filter before invoking vision models.
 
 ---
 
-## Fun facts
-- Most repos are "vibecoded" — small, opinionated experiments meant to learn and move on.
-- I prefer shipping a working demo over perfection.
+## Contact
+
+Working on a messy operational problem? I'm especially interested in software around documents, business operations, human review, and applied AI.
+
+- Email: [hello@sujayganorkar.in](mailto:hello@sujayganorkar.in)
